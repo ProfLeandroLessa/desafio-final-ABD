@@ -1,0 +1,88 @@
+cod_produto;nome_produto;cod_classe_produto;classe_produto;valor
+1000;Sabão em pó;1;Produtos de Limpeza;9,9
+1001;Amaciante;1;Produtos de Limpeza;22
+1002;Detergente;1;Produtos de Limpeza;1,99
+1003;Água sanitária;1;Produtos de Limpeza;12
+1004;Esponja de aço;1;Produtos de Limpeza;4
+1005;Buchinha de pia;1;Produtos de Limpeza;2,5
+1006;Sabão em pedra;1;Produtos de Limpeza;6
+1007;Sabonete;1;Produtos de Limpeza;1,25
+1008;Shampo;1;Produtos de Limpeza;8,5
+1009;Condicionador;1;Produtos de Limpeza;12,5
+1010;Desinfetante;1;Produtos de Limpeza;11
+1011;Lustra móveis;1;Produtos de Limpeza;5,99
+1012;Tira manchas;1;Produtos de Limpeza;7,95
+1013;Limpa vidros;1;Produtos de Limpeza;13,5
+1014;Alcool;1;Produtos de Limpeza;8,99
+1015;Saco de lixo 30l;1;Produtos de Limpeza;12
+1016;Saco de lixo 50l;1;Produtos de Limpeza;15
+1017;Refrigerante 2l;2;Bebidas;7,5
+1018;Suco garrafa 1l;2;Bebidas;4,99
+1019;Suco caixinha 500ml;2;Bebidas;4,5
+1020;Suco sachê;2;Bebidas;2,5
+1021;Leite integral litro;2;Bebidas;3,99
+1022;Leite desnatado litro;2;Bebidas;4,3
+1023;Arroz 5kg;3;Alimentação;22,5
+1024;Feijão 2kg;3;Alimentação;5,99
+1025;Macarrão;3;Alimentação;4,99
+1026;Extrato de tomate;3;Alimentação;2
+1027;Molho de tomate;3;Alimentação;3,99
+1028;Sal;3;Alimentação;3,2
+1029;Açucar;3;Alimentação;10
+1030;Achocolatado;3;Alimentação;8
+1031;Bolacha;3;Alimentação;1,99
+1032;Café;3;Alimentação;9,99
+1033;Farofa pronta;3;Alimentação;2,32
+1034;Fubá;3;Alimentação;3,75
+1035;Farinha de trigo;3;Alimentação;3,99
+1036;Farinha de milho;3;Alimentação;3,5
+1037;Farinha de mandioca;3;Alimentação;3,45
+1038;Sardinha;3;Alimentação;4
+1039;Atum;3;Alimentação;4,99
+1040;Maionese;3;Alimentação;5
+1041;Molho de pimenta;3;Alimentação;4,95
+1042;Ervilha;3;Alimentação;4,45
+1043;Milho verde;3;Alimentação;3,25
+1044;Seleta ;3;Alimentação;3,99
+1045;Doce de leite;3;Alimentação;5,99
+1046;Goiabada;3;Alimentação;4,99
+1047;Milho de pipoca;3;Alimentação;3,89
+1048;Óleo de cozinha;3;Alimentação;8,99
+1049;Leite em pó;3;Alimentação;5,99
+1050;Creme de leite;3;Alimentação;3,5
+1051;Leite condensado;3;Alimentação;5,99
+1052;Pão de forma;3;Alimentação;5,89
+1053;Alface;4;Hortifruti;1,5
+1054;Couve;4;Hortifruti;1,5
+1055;Batata;4;Hortifruti;3,99
+1056;Tomate;4;Hortifruti;3,75
+1057;Cenoura;4;Hortifruti;2,99
+1058;Beterraba;4;Hortifruti;3,89
+1059;Chicória;4;Hortifruti;4
+1060;Mandioca;4;Hortifruti;3,5
+1061;Chuchu;4;Hortifruti;5,99
+1062;Espinafre;4;Hortifruti;5,99
+1063;Banana;4;Hortifruti;3,99
+1064;Ovos;4;Hortifruti;12,5
+1065;Uva;4;Hortifruti;5,99
+1066;Abacate;4;Hortifruti;3,76
+1067;Mamão;4;Hortifruti;2,99
+1068;Melancia;4;Hortifruti;1,29
+1069;Melão;4;Hortifruti;3,49
+1070;Jiló;4;Hortifruti;3,99
+1071;Quiabo;4;Hortifruti;4,99
+1072;Salsa;4;Hortifruti;1,5
+1073;Cheiro verde;4;Hortifruti;1,5
+1074;Cebola;4;Hortifruti;2,49
+1075;Queijo Minas;5;Carnes e Frios;35
+1076;Queijo Mussarela;5;Carnes e Frios;29,99
+1077;Queijo outros;5;Carnes e Frios;34,5
+1078;Manteiga;5;Carnes e Frios;10,99
+1079;Margarina;5;Carnes e Frios;5,99
+1080;Iogurte;5;Carnes e Frios;2,49
+1081;Presunto;5;Carnes e Frios;11,5
+1082;Peixe;5;Carnes e Frios;29,99
+1083;Frango;5;Carnes e Frios;1,99
+1084;Carne vermelha;5;Carnes e Frios;56,99
+1085;Carne seca;5;Carnes e Frios;64,99
+1086;Salsicha;5;Carnes e Frios;15,9
